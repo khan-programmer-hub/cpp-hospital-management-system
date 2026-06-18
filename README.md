@@ -43,6 +43,24 @@ This project was created to practice:
 
 ---
 
+## Learning Outcomes
+
+- Object-Oriented Programming (OOP)
+- CRUD Operations
+- Class Design
+- Hospital Record Management
+- Menu-Driven Programming
+- Bill Calculation Logic
+
+## Future Enhancements
+
+- Update Patient Record
+- File Handling
+- Critical Patient Detection
+- Doctor Management Module
+- Appointment Scheduling
+- Database Integration
+
 ## 👨‍💻 Author
 
 khan-programmer-hub
